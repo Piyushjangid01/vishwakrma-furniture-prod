@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  IMAGE_NAME: vishwakrma-newcloude/html-site
+  IMAGE_NAME: piyushj01/html-site
 
 jobs:
   build:
